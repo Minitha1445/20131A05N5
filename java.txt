@@ -1,0 +1,36 @@
+s.toCharArray();
+Stack<Integer>s=new Stack<>();
+String.valueOf(c);
+
+
+
+
+
+oops:it is a methodology do design a program using objects and classes.
+object:instance of class,contains an address and occupies space in memory.
+	Objects can communicate without knowing the details of each other's data or code. 
+	The only necessary thing is the type of message accepted and the type of response returned by the objects.
+class:collection of objects,create individual object,doesnt consume any space
+inheritance:When one object acquires all the properties and behaviors of a parent object
+polymorphism:one task is performed in different ways,
+		we use overloading-same cls different parameters and overriding-different classes
+abstraction:Hiding internal details and showing functionality,
+	      we use abstract class and interface to achieve abstraction.
+encapsulation:binding code and data together into a single unit.
+
+class:--fields,
+	methods-block of code or set of code grouped together to perform a certain task and used to achieve the reusability of code,
+		declaration-public (static) int/void sum (int a,int b) 
+	constructor-
+
+
+Arrays.toString()
+string comparision- .compareTo()
+		    .equals()
+string concatination - s1.concat(s2)
+string substring - .substring(0,6)
+split -		.split()
+	- .toUpperCase() & .toLowerCase()
+	- .startsWith("") & .endsWith("")
+returns a character at specified index - s.charAt()
+	- String.valueOf()

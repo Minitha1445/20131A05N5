@@ -1,0 +1,10 @@
+For prime numbers p>3,p^2-1 is divisible by 24. 
+Divisibility rule for 7:double the last digit of the num then subtract it from the remaining numbers.
+			if the result is divisible by 7,then pandagoww.
+Squares:25,65,95,75....(first digit*next digit) i.e (2*3=625,6*7=4225.....)
+	squares of 81,51,96....80^2+81+80....96^2+96+95	
+		   89....90^2-90-89
+
+percentages: x% of y= y% of x
+	     successive discount = (+-a)+(+-b)+((+-a)(+-b))/100
+	     expenditure = price *consumption	
